@@ -1,19 +1,19 @@
 <html>
   <head>
-    <title>My practice page!</title>
+    <title>conki monter poter</title>
+    <style>
+        div {
+            background-image: url(conki_monter-removebg-preview.png);
+            background-size: cover;
+            background-position: top;
+            width: 100%;
+            height: 100vh;
+          }
+      </style>
   </head>
-  <style>
-    div {
-    margin-left: auto;
-    margin-right: auto;
-    overflow: hidden;
-    }
-  </style>
   <body>
     <div>
-    <img src="conki 4.jfif" alt="text" width ="50%" height ="50%">
-    <img src="conki monter 2.jfif" alt="monter" width ="60%" height ="60%">
-    <h1 style="font-size: 500px;">hello</h1>
+    <h1 style="font-size: 300px;">let op de <img src="conki-removebg-preview.png" alt="text" width ="50%" height ="50%"></h1>
     </div>
   </body>
 </html>
